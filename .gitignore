@@ -1,0 +1,13 @@
+\#*
+*~
+.#*
+.DS_Store
+.idea
+.project
+Gemfile.lock
+pkg
+tmp
+nbproject
+*.swp
+.rvmrc
+spec/test_app
